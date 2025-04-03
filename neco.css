@@ -1,0 +1,17 @@
+/* CSS Document */
+h1{
+    align:"center";
+    }
+h3{
+     align:center
+      }
+.mein{background-color: rgba(255, 78, 187, 0.5);
+margin-bottom: 50%;
+margin-block:  20;
+height: 120%;
+border: 6cm;
+border-color: blueviolet;
+width: 95%;
+align:center;
+
+}
